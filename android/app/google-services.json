@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718513063854",
+    "project_id": "doworkdeleteit",
+    "storage_bucket": "doworkdeleteit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718513063854:android:ba6681a1e500e520c26a3f",
+        "android_client_info": {
+          "package_name": "com.example.email_password_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-cp6kWKXYQW08Ecn4rRGrdTSMlTXbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718513063854:android:6861d5ada25f8024c26a3f",
+        "android_client_info": {
+          "package_name": "com.example.google_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-cp6kWKXYQW08Ecn4rRGrdTSMlTXbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
