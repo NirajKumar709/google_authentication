@@ -15,6 +15,7 @@ class GetType extends StatefulWidget {
 class _GetTypeState extends State<GetType> {
   late Future<List<User>> userData;
 
+
   @override
   void initState() {
     userData = ApiService().fetchUsers();
